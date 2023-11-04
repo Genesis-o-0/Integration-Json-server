@@ -1,4 +1,20 @@
 {
   "users": [],
-  "todos": []
+  "todos": [
+    {
+      "title": "dasdasd",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "play",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "game",
+      "completed": true,
+      "id": 5
+    }
+  ]
 }
